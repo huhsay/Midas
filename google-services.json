@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1011604784358",
+    "firebase_url": "https://fir-test-a6d16.firebaseio.com",
+    "project_id": "fir-test-a6d16",
+    "storage_bucket": "fir-test-a6d16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011604784358:android:ca71c06c78afd3c7",
+        "android_client_info": {
+          "package_name": "myfire.bong.com.logintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011604784358-9c4mm77jp7vd76pq8jhe2d0b61n0ik0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC45A-akAZruap6hBsFEJk9WiTz3Hqjvho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
